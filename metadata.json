@@ -1,0 +1,15 @@
+{
+  "name": "stephen50191-ssh",
+  "version": "0.1.0",
+  "author": "Stephen L. Milton <stephen50191@hotmail.com>",
+  "summary": "Linux Academy, This module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "git@github.com:stephen50191/puppet-ssh",
+  "project_page": "git@github.com:stephen50191/puppet-ssh",
+  "issues_url": "git@github.com:stephen50191/puppet-ssh.git/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
